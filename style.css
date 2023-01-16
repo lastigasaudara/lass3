@@ -1,0 +1,35 @@
+.banner{
+    background-image: url(gambar/bg.jpg);
+    no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: rgb(255, 255, 255);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 5px 5px 10px rgb(188, 0, 0), -5px -5px 10px rgb(0, 0, 0)
+    }
+
+    
+.crop-img {
+    object-fit: cover;
+}
+
+.tim img {
+    border: 1px solid #000000;
+    width: 150px;
+    height: 150px;
+    overflow: hidden;
+}
+
+
+
+a.social {
+    display: inline-block;
+    color: #000000
+}
+
+.client img {
+    height: auto;
+    max-height: 50px;
+}
+
